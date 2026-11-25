@@ -1,0 +1,6 @@
+{
+  "name": "Единая Почта",
+  "description": "Единый почтовый клиент для Яндекс Почты, Mail.ru и Gmail с общим ящиком, мгновенным переключением, поиском и push-уведомлениями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

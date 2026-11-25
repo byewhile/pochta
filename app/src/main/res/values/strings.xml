@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Единая Почта</string>
+    <string name="all_mailboxes">Все ящики</string>
+    <string name="search_emails_hint">Поиск по всем письмам…</string>
+    <string name="search_in_mailbox_hint">Поиск в %1$s…</string>
+    <string name="compose_email">Написать</string>
+    <string name="connect_account">Подключить ящик</string>
+    <string name="manage_accounts">Аккаунты</string>
+    <string name="clear_mailbox">Очистить папку</string>
+    <string name="delete_selected">Удалить</string>
+    <string name="sync_now">Обновить</string>
+    <string name="folder_inbox">Входящие</string>
+    <string name="folder_sent">Отправленные</string>
+    <string name="folder_starred">Избранные</string>
+    <string name="folder_spam">Спам</string>
+    <string name="folder_trash">Корзина</string>
+    <string name="realtime_active">В реальном времени</string>
+    <string name="realtime_syncing">Синхронизация…</string>
+    <string name="realtime_idle">Подключено</string>
+    <string name="notification_channel_new_mail_name">Новые письма</string>
+    <string name="notification_channel_new_mail_desc">Уведомления о входящих сообщениях со всех подключённых почтовых ящиков</string>
+    <string name="notification_channel_sync_name">Фоновая синхронизация</string>
+    <string name="notification_channel_sync_desc">Поддержка мгновенных уведомлений IMAP IDLE в реальном времени</string>
+    <string name="allow_notifications_title">Включите уведомления</string>
+    <string name="allow_notifications_desc">Получайте мгновенные push-уведомления о новых письмах из Яндекс, Mail.ru и Gmail.</string>
+    <string name="enable_action">Включить</string>
+</resources>
